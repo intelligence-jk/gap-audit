@@ -1,0 +1,21 @@
+{
+  "prereqs": {
+    "fractions": [],
+    "ratio": ["fractions"],
+    "percentages": ["fractions", "ratio"],
+    "algebra basics": [],
+    "linear equations": ["algebra basics"],
+    "simultaneous equations": ["linear equations"],
+    "quadratics": ["algebra basics", "linear equations"]
+  },
+  "scores": {
+    "fractions": [3, 10],
+    "ratio": [4, 10],
+    "percentages": [2, 10],
+    "algebra basics": [8, 10],
+    "linear equations": [4, 10],
+    "simultaneous equations": [3, 10],
+    "quadratics": [9, 10]
+  },
+  "pass_line": "1/2"
+}
