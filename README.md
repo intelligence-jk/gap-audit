@@ -1,4 +1,4 @@
-# ARGUS: Audit that Reveals Gaps in Understanding, Systematically
+# EUDOXUS: named after Eudoxus, whose theory of proportion closed the gap that irrational ratios opened in Greek geometry
 
 Formerly `gap-audit`.
 
