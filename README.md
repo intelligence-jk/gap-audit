@@ -1,4 +1,6 @@
-# gap-audit
+# ARGUS: Audit that Reveals Gaps in Understanding, Systematically
+
+Formerly `gap-audit`.
 
 Finds the root gaps in a student's topic results. If fractions, ratio and percentages all went badly, the real gap is fractions, and fixing it first is what unlocks the other two.
 
